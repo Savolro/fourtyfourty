@@ -1,4 +1,4 @@
-package com.example.examplemod.Reference;
+package com.fourtyfourty.mod.Reference;
 
 import net.minecraftforge.fml.common.Mod;
 

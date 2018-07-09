@@ -1,7 +1,6 @@
-package com.example.examplemod;
+package com.fourtyfourty.mod;
 
-import com.example.examplemod.Reference.Reference;
-import com.sun.deploy.util.SessionState;
+import com.fourtyfourty.mod.Reference.Reference;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiChat;
 import net.minecraft.client.settings.KeyBinding;
@@ -24,7 +23,7 @@ import net.minecraftforge.client.model.obj.OBJLoader;
 
 import org.lwjgl.input.Keyboard;
 
-import static com.example.examplemod.Reference.Reference.MODID;
+import static com.fourtyfourty.mod.Reference.Reference.MODID;
 
 
 @Mod(modid = MODID, useMetadata = true, canBeDeactivated = true, clientSideOnly = true)

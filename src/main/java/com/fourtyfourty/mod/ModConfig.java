@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.fourtyfourty.mod;
 
 import net.minecraft.client.settings.KeyBinding;
 import net.minecraftforge.common.config.Config;
@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
 
-import static com.example.examplemod.Reference.Reference.MODID;
+import static com.fourtyfourty.mod.Reference.Reference.MODID;
 
 @Mod.EventBusSubscriber(modid = MODID)
 @Config(modid = MODID)
